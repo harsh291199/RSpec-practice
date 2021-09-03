@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# Sandwitch class
+# Sandwich class
 class Sandwich
   attr_accessor :meat, :cheese, :condiments
 
